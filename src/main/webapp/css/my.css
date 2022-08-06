@@ -1,0 +1,6 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
+tr:hover {background-color: #e2d1ac;}
+tr {background-color: #efe9d1;}
